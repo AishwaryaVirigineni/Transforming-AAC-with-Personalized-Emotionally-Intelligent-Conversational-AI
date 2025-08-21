@@ -77,10 +77,3 @@ Streamlit web app for **real-time AAC interaction**.
 This project demonstrates how **LLMs can transform AAC** tools into **empathetic, emotionally intelligent conversational partners** — enabling users to go beyond basic communication and **express personality, emotion, and intent** in real-time conversations.  
 
 ---
-
-## 📜 Citation  
-
-If you use this work, please cite:  
-```
-Virigineni, Aishwarya. EXPRESS ME: Transforming AAC with Personalized, Emotionally Intelligent Conversational AI. SUNY Buffalo, 2025.
-```
